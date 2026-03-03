@@ -1,41 +1,66 @@
-# Fatema T. Johra  
-Incident Response | DFIR | Cloud Security | Governance
+# Fatema T. Johra
+
+Incident Response | Digital Forensics | Cloud Security | Security Governance  
+
+---
+
+## Professional Summary
+
+Cybersecurity professional with 7+ years of experience supporting enterprise security operations, incident response lifecycle management, and cloud security investigations across hybrid environments.  
+
+Specialized in NIST-aligned incident response frameworks, digital forensic methodologies, SOP development, and security program enhancement initiatives.
+
+---
+
+## Core Competencies
+
+- Enterprise Incident Response (NIST SP 800-61 aligned)
+- Digital Forensics & Evidence Handling
+- AWS & Azure Cloud Investigations
+- Security Governance & Policy Development
+- IAM & Privilege Escalation Analysis
+- Tabletop Exercise Design
+- IR Metrics & Reporting
+- Security Automation & Workflow Optimization
+
+---
+
+## Featured Repositories
+
+### Cybersecurity Portfolio
+Enterprise-level documentation and structured frameworks covering:
+- Incident Response Playbooks
+- Cloud Investigation Guides
+- SOP Templates
+- Security Research
+- Automation Concepts  
+
+🔗 https://github.com/ftj258/cybersecurity-portfolio
+
+---
 
 ## Resume
 
-[Download Resume (PDF)](https://raw.githubusercontent.com/ftj258/cybersecurity-portfolio/main/resume/Fatema_Johra_Resume.pdf)
-
----
-
-## Portfolio Overview
-
-This repository showcases enterprise-level cybersecurity documentation, investigation frameworks, governance artifacts, and cloud security methodologies developed to support structured incident response and security operations environments.
-
-The content reflects practical experience across:
-
-- Incident Response lifecycle management
-- Digital forensics procedures
-- Cloud investigation methodologies (AWS/Azure)
-- SOP development and policy governance
-- Security automation and metrics reporting
-
----
-
-## Repository Structure
-
-- **incident-response/** – Playbooks, tabletop exercises, SOP samples, and IR metrics artifacts  
-- **cloud-security/** – AWS and Azure investigation guides  
-- **automation/** – Security automation examples and workflow outlines  
-- **research/** – Technical research documentation  
-- **projects/** – Hands-on security projects and labs  
-- **certifications/** – Certification summaries and study documentation  
+📄 Download Resume:  
+https://raw.githubusercontent.com/ftj258/cybersecurity-portfolio/main/resume/Fatema_Johra_Resume.pdf
 
 ---
 
 ## Focus Areas
 
-- NIST-aligned Incident Response
-- Enterprise investigation frameworks
-- Cloud-native threat detection
-- Governance and policy development
-- Metrics-driven security improvement
+- Structured Incident Response Programs
+- Cloud-Native Threat Detection
+- Governance & Process Improvement
+- Digital Forensic Investigation Methodologies
+- Continuous Security Program Maturation
+
+---
+
+## Professional Philosophy
+
+Security is not just detection and containment — it is structured response, measurable improvement, and governance alignment that strengthens enterprise resilience.
+
+---
+
+📫 Contact: fjohra@hotmail.com  
+🔗 LinkedIn: (Add your LinkedIn URL here)
