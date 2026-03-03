@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/ftj258/cybersecurity-portfolio/main/resume/Fat
 
 ## Professional Philosophy
 
-Security is not just detection and containment — it is structured response, measurable improvement, and governance alignment that strengthens enterprise resilience.
+Security is not just detection and containment — it is structured response, measurable improvement, and governance alignment that strengthens enterprise resilience. There is always room for improvement! So Learn and Grow together!
 
 ---
 
