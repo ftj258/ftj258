@@ -1,64 +1,41 @@
-# Fatema T. Johra
+# Fatema T. Johra  
+Incident Response | DFIR | Cloud Security | Governance
 
-DFIR and Cybersecurity Analyst | Incident Response | Cloud Security | Security Governance
+## Resume
 
----
-
-## About Me
-
-Cybersecurity professional with 7+ years of experience leading enterprise incident response, cloud security investigations, and governance initiatives across federal and commercial environments.
-
-Specialized in threat detection, containment strategy, root cause analysis, and continuous improvement of security operations. Experienced in developing and maintaining Incident Response policies, Standard Operating Procedures (SOPs), and escalation frameworks aligned with regulatory and business objectives.
-
-Focused on strengthening organizational resilience through structured response, automation, and proactive risk mitigation.
+[Download Resume (PDF)](./resume/Fatema_Johra_Resume.pdf)
 
 ---
 
-## Core Expertise
+## Portfolio Overview
 
-- Incident Response Lifecycle  
-- Threat Detection and Triage  
-- Forensic Investigations 
-- Cloud Security (AWS, Azure)  
-- SIEM and Log Analysis  
-- SOAR Automation  
-- Security Governance and SOP Development  
-- Identity and Access Management  
-- Vulnerability Management  
-- Executive Risk Reporting  
+This repository showcases enterprise-level cybersecurity documentation, investigation frameworks, governance artifacts, and cloud security methodologies developed to support structured incident response and security operations environments.
 
----
+The content reflects practical experience across:
 
-## Technical Stack
-
-**SIEM and IR Platforms**  
-Splunk, Fidelis, ServiceNow, BMC Remedy  
-
-**Cloud Platforms**  
-AWS, Azure, Microsoft 365  
-
-**Forensic and Investigation Tools**  
-FTK, EnCase, Magnet Axiom, Nuix, Cellebrite, Autopsy  
-
-**Networking and Threat Analysis**  
-Wireshark, Nmap  
-
-**Automation and Scripting**  
-Python, PowerShell, Bash  
+- Incident Response lifecycle management
+- Digital forensics procedures
+- Cloud investigation methodologies (AWS/Azure)
+- SOP development and policy governance
+- Security automation and metrics reporting
 
 ---
 
-## Professional Focus Areas
+## Repository Structure
 
-- Enhancing enterprise detection and response capabilities  
-- Developing and refining Incident Response frameworks  
-- Strengthening cloud security posture  
-- Conducting structured investigations and forensic analysis  
-- Aligning technical controls with governance and compliance requirements  
+- **incident-response/** – Playbooks, tabletop exercises, SOP samples, and IR metrics artifacts  
+- **cloud-security/** – AWS and Azure investigation guides  
+- **automation/** – Security automation examples and workflow outlines  
+- **research/** – Technical research documentation  
+- **projects/** – Hands-on security projects and labs  
+- **certifications/** – Certification summaries and study documentation  
 
 ---
 
-## Contact
+## Focus Areas
 
-Email: fjohra@hotmail.com  
-LinkedIn: https://www.linkedin.com/in/fjohra/
+- NIST-aligned Incident Response
+- Enterprise investigation frameworks
+- Cloud-native threat detection
+- Governance and policy development
+- Metrics-driven security improvement
