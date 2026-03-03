@@ -31,6 +31,7 @@ Specialized in NIST-aligned incident response frameworks, digital forensic metho
 Enterprise-level documentation and structured frameworks covering:
 - Incident Response Playbooks
 - Cloud Investigation Guides
+- Digital Forensics & Evidence Handling
 - SOP Templates
 - Security Research
 - Automation Concepts  
