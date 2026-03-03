@@ -58,13 +58,6 @@ Python, PowerShell, Bash
 
 ---
 
-## Resume
-
-Professional resume available here:  
-[Download Resume (PDF)](./Fatema_Johra_Resume.pdf)
-
----
-
 ## Contact
 
 Email: fjohra@hotmail.com  
