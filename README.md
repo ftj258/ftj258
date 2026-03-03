@@ -3,7 +3,7 @@ Incident Response | DFIR | Cloud Security | Governance
 
 ## Resume
 
-[Download Resume (PDF)](./resume/Fatema_Johra_Resume.pdf)
+[Download Resume (PDF)](https://raw.githubusercontent.com/ftj258/cybersecurity-portfolio/main/resume/Fatema_Johra_Resume.pdf)
 
 ---
 
