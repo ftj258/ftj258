@@ -63,4 +63,4 @@ Security is not just detection and containment — it is structured response, me
 ---
 
 📫 Contact: fjohra@hotmail.com  
-🔗 LinkedIn: (Add your LinkedIn URL here)
+🔗 LinkedIn: https://www.linkedin.com/in/fjohra/
