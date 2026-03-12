@@ -40,13 +40,6 @@ Enterprise-level documentation and structured frameworks covering:
 
 ---
 
-## Resume
-
-📄 Download Resume:  
-https://raw.githubusercontent.com/ftj258/cybersecurity-portfolio/main/resume/Fatema_Johra_Resume.pdf
-
----
-
 ## Focus Areas
 
 - Structured Incident Response Programs
