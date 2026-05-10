@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Fatema Johra Cybersecurity Banner">
+</p>
 
 ## Federal Cybersecurity Professional | DFIR | Incident Response | Cloud Security
 
